@@ -7,6 +7,9 @@
 	</a>
 </h3>
 
+## About Me
+I mainly focus on learning and solving challenging problems in Machine Learning and Artificial Intelligence. I'm also very skilled in Python, and love taking up new tasks that I can solve using it. I also have a passion for learning new skills and sharing my knowledge with others. Feel free to reach out to me if you would like to collaborate
+
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1982fc)
@@ -34,3 +37,11 @@
 <a href="https://github.com/RamKaushikR/RamKaushikR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamKaushikR&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dark&icon_color=1982fc" alt="Ram Kaushik's GitHub Stats" />
 </a>
+
+## Publications
+
+[Species Recommendation using Machine Learning](http://ceur-ws.org/Vol-2380/paper_71.pdf): Co-authored the working Notes for GeoLifeCLEF 2019, published in CEUR-WS. 2019. Achieved 3rd rank overall, with the best submission at 6th place out of 54. Developed a location-based species identification system from satellite images, as part of the ImageClef International Conference. Used multiple approaches to extract the image patches from the data, and several Machine learning & Deep learning techniques to develop the models.
+
+[Plant Species Identification using Transfer Learning](http://ceur-ws.org/Vol-2696/paper_139.pdf): Co-authored the working Notes for PlantCLEF 2020, published in CEUR-WS. 2020. Developed an identifier system for plant species from images along with metadata. Used transfer learning approaches in order to obtain patterns in the images which identify species, and used representations from these trained models in order to obtain more accurate predictions. Made use of the Google Cloud platform, and used Tensor Processing Units (TPUs) to develop models at a faster rate
+
+#### Take a look at some of my work 👇
