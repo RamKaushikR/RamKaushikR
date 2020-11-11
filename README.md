@@ -7,7 +7,8 @@
 	</a>
 </h3>
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1982fc)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1982fc)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1982fc)
@@ -25,11 +26,11 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1982fc)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=1982fc)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/RamKaushikR/RamKaushikR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamKaushikR&hide=matlab,python&title_color=ffffff&text_color=c9cacc&icon_color=1928fc&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamKaushikR&hide=matlab,python&title_color=ffffff&theme=dark" />
 </a>
 <a href="https://github.com/RamKaushikR/RamKaushikR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamKaushikR&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=1982fc&bg_color=1d1f21" alt="Ram Kaushik's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamKaushikR&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dark&icon_color=1982fc" alt="Ram Kaushik's GitHub Stats" />
 </a>
